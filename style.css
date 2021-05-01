@@ -1,0 +1,37 @@
+
+.navbar{
+    background-color: red;
+    overflow: auto;
+}
+
+
+#img{
+
+    height: 90px;
+    width: 80px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+#ul{
+
+    list-style-type: none;
+    float: right;
+    padding: 14px;
+    border: 4px;
+    margin-right: 20px;
+   
+}
+ul li{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-size: x-large;
+    
+    margin-top: 28px;
+}
